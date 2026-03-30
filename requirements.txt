@@ -1,0 +1,10 @@
+openai
+networkx
+pyvis
+streamlit
+python-dotenv
+numpy
+langchain
+langchain-openai
+langchain-community
+watchdog
