@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python \"c:/Users/Anna/Desktop/projectes/second-brain/automation/claude_code_hook.py\" --auto)",
+      "Bash(echo \"Exit: $?\")"
+    ]
+  }
+}
